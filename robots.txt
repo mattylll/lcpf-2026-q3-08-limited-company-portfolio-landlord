@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/lcpf-2026-q3-08-limited-company-portfolio-landlord/sitemap.xml
